@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/awp-profile-cover.png" alt="AI Workflow Pro" width="100%" />
+</p>
+
 # AI Workflow Pro
 
 > Practical AI coding workflows for builders working with Claude Code, MCP, AI agents, and developer automation.
@@ -14,8 +18,8 @@
   </a>
   <img src="https://img.shields.io/badge/Claude_Code-primary-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/MCP-integration-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <a href="https://x.com/aiworkflowleo">
-    <img src="https://img.shields.io/badge/X-@aiworkflowleo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/aiworkflowlk">
+    <img src="https://img.shields.io/badge/X-@aiworkflowlk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=aiworkflowpro&style=for-the-badge&color=2563EB&label=visits" alt="Profile visits" />
 </p>
@@ -43,7 +47,7 @@ AI Workflow Pro is a public lab for agentic software work:
 - Website: [aiworkflowpro.com](https://aiworkflowpro.com)
 - Tutorials: [AI Workflow Pro tutorials](https://aiworkflowpro.com/tag/tutorials/)
 - Hands-on workflows: [field-tested build notes](https://aiworkflowpro.com/tag/hands-on/)
-- Daily notes: [X @aiworkflowleo](https://x.com/aiworkflowleo)
+- Daily notes: [X @aiworkflowlk](https://x.com/aiworkflowlk)
 
 ---
 
@@ -77,8 +81,8 @@ Product source code, membership source packs, private experiments, unreleased sk
   <a href="https://aiworkflowpro.com">
     <img src="https://img.shields.io/badge/Website-aiworkflowpro.com-111827?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
   </a>
-  <a href="https://x.com/aiworkflowleo">
-    <img src="https://img.shields.io/badge/X-@aiworkflowleo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/aiworkflowlk">
+    <img src="https://img.shields.io/badge/X-@aiworkflowlk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
