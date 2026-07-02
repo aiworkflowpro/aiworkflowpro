@@ -18,8 +18,11 @@
   </a>
   <img src="https://img.shields.io/badge/Claude_Code-primary-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/MCP-integration-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <a href="https://x.com/aiworkflowlk">
-    <img src="https://img.shields.io/badge/X-@aiworkflowlk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/aiworkflowprolk">
+    <img src="https://img.shields.io/badge/X-@aiworkflowprolk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q">
+    <img src="https://img.shields.io/badge/YouTube-@aiworkflowprolk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=aiworkflowpro&style=for-the-badge&color=2563EB&label=visits" alt="Profile visits" />
 </p>
@@ -47,7 +50,8 @@ AI Workflow Pro is a public lab for agentic software work:
 - Website: [aiworkflowpro.com](https://aiworkflowpro.com)
 - Tutorials: [AI Workflow Pro tutorials](https://aiworkflowpro.com/tag/tutorials/)
 - Hands-on workflows: [field-tested build notes](https://aiworkflowpro.com/tag/hands-on/)
-- Daily notes: [X @aiworkflowlk](https://x.com/aiworkflowlk)
+- Daily notes: [X @aiworkflowprolk](https://x.com/aiworkflowprolk)
+- Build-in-public videos: [YouTube @aiworkflowprolk](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q)
 
 ---
 
@@ -81,8 +85,11 @@ Product source code, membership source packs, private experiments, unreleased sk
   <a href="https://aiworkflowpro.com">
     <img src="https://img.shields.io/badge/Website-aiworkflowpro.com-111827?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
   </a>
-  <a href="https://x.com/aiworkflowlk">
-    <img src="https://img.shields.io/badge/X-@aiworkflowlk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/aiworkflowprolk">
+    <img src="https://img.shields.io/badge/X-@aiworkflowprolk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q">
+    <img src="https://img.shields.io/badge/YouTube-@aiworkflowprolk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
