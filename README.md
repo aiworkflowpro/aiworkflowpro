@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/awp-logo-1024.png" alt="AI Workflow Pro" width="120" />
+  <img src="assets/banner-1584x396.png" alt="AI Workflow Pro" width="100%" />
 </p>
 <h1 align="center">AI Workflow Pro</h1>
 <p align="center"><em>Indie AI building, in public.</em></p>
