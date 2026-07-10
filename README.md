@@ -50,28 +50,6 @@ Every product here solves a problem I hit myself first. No course pitch, no over
 
 ---
 
-## 💬 FAQ
-
-<details>
-<summary><b>Why trust someone with no face?</b></summary>
-<br>
-Don't trust me — check the work. The products are live, the numbers are public, the code ships. A face wouldn't add much to that.
-</details>
-
-<details>
-<summary><b>Why so many small products instead of one big one?</b></summary>
-<br>
-I place small bets. Cheap to build, honest to test. The market picks the winners. I just keep score in public.
-</details>
-
-<details>
-<summary><b>What's your background?</b></summary>
-<br>
-I've followed workflow automation for years — the no-code wave, the self-hosted wave, and now the AI wave. Different tools, same obsession: can I make this run without me sitting there clicking buttons.
-</details>
-
----
-
 ## 📦 Open-Source Policy
 
 Public repos here are clean snapshots — tools, examples, and docs meant to be searched, reused, and inspected safely. Product source code, work-in-progress experiments, and internal automation stay private by default.
