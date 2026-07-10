@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/banner-1584x396.png" alt="AI Workflow Pro" width="100%" />
 </p>
-<h1 align="center">AI Workflow Pro</h1>
 <p align="center"><em>Indie AI building, in public.</em></p>
 
 <p align="center">
@@ -79,5 +78,5 @@ Public repos here are clean snapshots — tools, examples, and docs meant to be 
 
 ---
 
-<p align="center"><sub>Building AI tools in public — the products, the process, the lessons.</sub></p>
+<p align="center"><sub>Tools change. The question underneath them doesn't.</sub></p>
 <p align="center"><b>— Leo</b></p>
