@@ -10,15 +10,34 @@
   <a href="https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q"><img src="https://img.shields.io/badge/YouTube-@aiworkflowprolk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-I build small AI tools in public — the products, the process, and the lessons learned the hard way. No hype, no abstract commentary. Just an indie builder shipping in the open, sharing what works, what breaks, and what actually earns.
+---
+
+## 👋 About
+
+> I'm Leo. AI Workflow Pro is where I build AI tools in public — the products, the process, the lessons.
+
+I've chased the "workflow" idea across four generations of tools, and now I run a one-person product studio: small AI tools, public numbers, failures included. Paying users decide what survives.
+
+No sponsors, no consulting. I sell things that run without me. English is my second language, so I keep the prose plain.
 
 ---
 
 ## 🔨 What I Build
 
-A studio of small AI products, built and operated in the open.
+A portfolio of small AI products, built and operated in the open.
 
-Each one solves a problem I hit myself. I publish the whole process as it happens — the calls I made, the ones I got wrong, what shipped, what earned, and what didn't. No course pitch, no overnight-success story. A portfolio running in public is the whole point: a live record of an indie AI business taking shape, one tool at a time.
+Most build-in-public accounts share the story of one product growing up. I share something messier and more honest: the daily running of a whole portfolio. What gets started, what gets archived, how the scoreboard moves, and which paying signals decide where my time goes next.
+
+Every product here solves a problem I hit myself first. No course pitch, no overnight success. Just a live record of an indie AI business taking shape, one tool at a time.
+
+---
+
+## ⚙️ How I Work
+
+- **Small bets.** Cheap to build, honest to test. The market picks the winners. I just keep score in public.
+- **Only what I've run.** If I haven't broken it, I won't write about it.
+- **Watching, not selling.** Multi-agent and AI companies are real, but I'm not packaging the next wave as advice. I'd rather be the second-wave post-mortem than the first-wave hype.
+- **No sponsors, no consulting.** I don't sell my time. If it's worth teaching, it ships as a tool or a template.
 
 ---
 
@@ -32,6 +51,28 @@ Each one solves a problem I hit myself. I publish the whole process as it happen
 
 ---
 
+## 💬 FAQ
+
+<details>
+<summary><b>Why trust someone with no face?</b></summary>
+<br>
+Don't trust me — check the work. The products are live, the numbers are public, the code ships. A face wouldn't add much to that.
+</details>
+
+<details>
+<summary><b>Why so many small products instead of one big one?</b></summary>
+<br>
+I place small bets. Cheap to build, honest to test. The market picks the winners. I just keep score in public.
+</details>
+
+<details>
+<summary><b>What's your background?</b></summary>
+<br>
+I've followed workflow automation for years — the no-code wave, the self-hosted wave, and now the AI wave. Different tools, same obsession: can I make this run without me sitting there clicking buttons.
+</details>
+
+---
+
 ## 📦 Open-Source Policy
 
 Public repos here are clean snapshots — tools, examples, and docs meant to be searched, reused, and inspected safely. Product source code, work-in-progress experiments, and internal automation stay private by default.
@@ -39,3 +80,4 @@ Public repos here are clean snapshots — tools, examples, and docs meant to be 
 ---
 
 <p align="center"><sub>Building AI tools in public — the products, the process, the lessons.</sub></p>
+<p align="center"><b>— Leo</b></p>
