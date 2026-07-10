@@ -50,6 +50,16 @@ Every product here solves a problem I hit myself first. No course pitch, no over
 
 ---
 
+
+## 🧩 Open Source
+
+| Project | What it is |
+|---|---|
+| [workflow-agent-skill-spec](https://github.com/aiworkflowpro/workflow-agent-skill-spec) | Spec for building production-grade Claude Code Skills |
+| [video-editing-skill](https://github.com/aiworkflowpro/video-editing-skill) | Claude Code Skill — automated video editing |
+| [awesome-rss-feeds](https://github.com/aiworkflowpro/awesome-rss-feeds) | 2000+ curated RSS feeds, 30 categories |
+| [awesome-ai-practices](https://github.com/aiworkflowpro/awesome-ai-practices) | Real AI best practices, auto-curated every 6h |
+
 ## 📦 Open-Source Policy
 
 Public repos here are clean snapshots — tools, examples, and docs meant to be searched, reused, and inspected safely. Product source code, work-in-progress experiments, and internal automation stay private by default.
