@@ -42,11 +42,9 @@ Every product here solves a problem I hit myself first. No course pitch, no over
 
 ## 🚀 Start Here
 
-- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com)
-- 📚 Tutorials → [hands-on walkthroughs](https://aiworkflowpro.com/tag/tutorials/)
-- 🛠️ Builds → [build-in-public notes](https://aiworkflowpro.com/tag/builds/)
-- 𝕏 Daily notes → [@aiworkflowprolk](https://x.com/aiworkflowprolk)
-- ▶️ Videos → [@aiworkflowprolk on YouTube](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q)
+- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com) — blog, tutorials, and build notes
+- 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk) — daily notes
+- ▶️ [YouTube](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q) — video walkthroughs
 
 ---
 
