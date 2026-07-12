@@ -50,15 +50,14 @@ Every product here solves a problem I hit myself first. No course pitch, no over
 
 ---
 
-
 ## 🧩 Open Source
 
 | Project | What it is |
 |---|---|
-| [workflow-agent-skill-spec](https://github.com/aiworkflowpro/workflow-agent-skill-spec) | Spec for building production-grade Claude Code Skills |
-| [video-editing-skill](https://github.com/aiworkflowpro/video-editing-skill) | Claude Code Skill — automated video editing |
-| [awesome-rss-feeds](https://github.com/aiworkflowpro/awesome-rss-feeds) | 2000+ curated RSS feeds, 30 categories |
-| [awesome-ai-practices](https://github.com/aiworkflowpro/awesome-ai-practices) | Real AI best practices, auto-curated every 6h |
+| [awp-workflow-agent-spec](https://github.com/aiworkflowpro/awp-workflow-agent-spec) | Specification for production-grade Claude Code Skills — 5-layer architecture and quality rubric |
+| [awp-video-editing-skill](https://github.com/aiworkflowpro/awp-video-editing-skill) | Claude Code Skill for automated video editing — AI narration, TTS, jump-cut detection, FFmpeg |
+| [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 8936+ curated English RSS feeds across 21 categories |
+| [awesome-ai-practices-list](https://github.com/aiworkflowpro/awesome-ai-practices-list) | Real-world AI best practices, auto-curated every 6h by DigestOps |
 
 ## 📦 Open-Source Policy
 
