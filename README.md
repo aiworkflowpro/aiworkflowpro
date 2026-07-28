@@ -17,7 +17,7 @@
 
 AI can already do more than most professions have figured out how to use. That gap — between what the models can do and what actually runs in your day-to-day work — is what this is about.
 
-I'm not an expert in your industry. I'm an expert in getting agents to finish real work under real constraints, which turns out to be where most AI projects die. English is my second language, so I keep the prose plain.
+Getting agents to finish real work under real constraints is where most AI projects die. That's the part I work on. English is my second language, so I keep the prose plain.
 
 ---
 
