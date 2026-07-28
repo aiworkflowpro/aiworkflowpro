@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner-1584x396.png" alt="AI Workflow Pro" width="100%" />
 </p>
-<p align="center"><em>Indie AI building, in public.</em></p>
+<p align="center"><em>Industry workflows, rebuilt with AI agents.</em></p>
 
 <p align="center">
   <a href="https://aiworkflowpro.com"><img src="https://img.shields.io/badge/Website-aiworkflowpro.com-111827?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" /></a>
@@ -13,38 +13,38 @@
 
 ## 👋 About
 
-> I'm Leo. AI Workflow Pro is where I build AI tools in public — the products, the process, the lessons.
+> I take one industry's real workflow at a time, rebuild it with AI agents, and show the whole thing.
 
-I've chased the "workflow" idea across four generations of tools, and now I run a one-person product studio: small AI tools, public numbers, failures included. Paying users decide what survives.
+AI can already do more than most professions have figured out how to use. That gap — between what the models can do and what actually runs in your day-to-day work — is what this is about.
 
-No sponsors, no consulting. I sell things that run without me. English is my second language, so I keep the prose plain.
+I'm not an expert in your industry. I'm an expert in getting agents to finish real work under real constraints, which turns out to be where most AI projects die. English is my second language, so I keep the prose plain.
 
 ---
 
-## 🔨 What I Build
+## 🔨 What this is
 
-A portfolio of small AI products, built and operated in the open.
+Working pieces from rebuilding real industry workflows with AI agents. Prompts, skeletons, and the judgment calls behind them.
 
-Most build-in-public accounts share the story of one product growing up. I share something messier and more honest: the daily running of a whole portfolio. What gets started, what gets archived, how the scoreboard moves, and which paying signals decide where my time goes next.
+Everything demonstrated in a video is here. If you saw it, you can run it.
 
-Every product here solves a problem I hit myself first. No course pitch, no overnight success. Just a live record of an indie AI business taking shape, one tool at a time.
+**From generic AI to industry workflows that ship.**
 
 ---
 
 ## ⚙️ How I Work
 
-- **Small bets.** Cheap to build, honest to test. The market picks the winners. I just keep score in public.
+- **One industry at a time.** Take a real workflow, rebuild it end to end, show the setup, the failures, the numbers, and the parts that still need a human.
 - **Only what I've run.** If I haven't broken it, I won't write about it.
-- **Watching, not selling.** Multi-agent and AI companies are real, but I'm not packaging the next wave as advice. I'd rather be the second-wave post-mortem than the first-wave hype.
-- **No sponsors, no consulting.** I don't sell my time. If it's worth teaching, it ships as a tool or a template.
+- **Every model release is another round.** Same workflow, new generation, what changed and what didn't. Old posts become the baseline rather than going stale.
+- **No vendor money.** No sponsorships, no affiliate links, no paid reviews. Nobody pays me to say a tool is good.
 
 ---
 
 ## 🚀 Start Here
 
-- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com) — blog, tutorials, and build notes
-- 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk) — daily notes
-- ▶️ [YouTube](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q) — video walkthroughs
+- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com) — write-ups, with the numbers and the failures
+- 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk) — what I'm rebuilding right now
+- ▶️ [YouTube](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q) — one workflow per video, start to finish
 
 ---
 
@@ -63,5 +63,5 @@ Public repos here are clean snapshots — tools, examples, and docs meant to be 
 
 ---
 
-<p align="center"><sub>Tools change. The question underneath them doesn't.</sub></p>
+<p align="center"><sub>The models get better. Someone still has to use them.</sub></p>
 <p align="center"><b>— Leo</b></p>
