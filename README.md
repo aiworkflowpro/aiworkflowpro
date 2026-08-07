@@ -48,20 +48,11 @@ Everything demonstrated in a video is here. If you saw it, you can run it.
 
 ---
 
-## 🧩 Open Source
+## 📦 Open Source
 
-| Project | What it is |
-|---|---|
-| [awp-workflow-agent-spec](https://github.com/aiworkflowpro/awp-workflow-agent-spec) | Specification for production-grade Claude Code Skills — 5-layer architecture and quality rubric |
-| [awp-video-editing-skill](https://github.com/aiworkflowpro/awp-video-editing-skill) | Claude Code Skill for automated video editing — AI narration, TTS, jump-cut detection, FFmpeg |
-| [awesome-rss-feeds-list](https://github.com/aiworkflowpro/awesome-rss-feeds-list) | 8936+ curated English RSS feeds across 21 categories |
-| [awesome-ai-practices-list](https://github.com/aiworkflowpro/awesome-ai-practices-list) | Real-world AI best practices, auto-curated every 6h by DigestOps |
-
-## 📦 Open-Source Policy
-
-Public repos here are clean snapshots — tools, examples, and docs meant to be searched, reused, and inspected safely. Product source code, work-in-progress experiments, and internal automation stay private by default.
+Public open-source repos are paused while work is consolidated. Product source stays private by default. Clean snapshots will return when they are ready to ship.
 
 ---
 
 <p align="center"><sub>The models get better. Someone still has to use them.</sub></p>
-<p align="center"><b>— Leo</b></p>
+<p align="center"><b>— hh</b></p>
