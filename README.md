@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner-1584x396.png" alt="AI Workflow Pro" width="100%" />
 </p>
-<p align="center"><em>Industry workflows, rebuilt with AI agents.</em></p>
+<p align="center"><em>AI workflows, step by step.</em></p>
 
 <p align="center">
   <a href="https://aiworkflowpro.com"><img src="https://img.shields.io/badge/Website-aiworkflowpro.com-111827?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" /></a>
@@ -27,7 +27,7 @@ Working pieces from rebuilding real industry workflows with AI agents. Prompts, 
 
 Everything demonstrated in a video is here. If you saw it, you can run it.
 
-**From generic AI to industry workflows that ship.**
+**From AI demo to reproducible workflow.**
 
 ---
 
