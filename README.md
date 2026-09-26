@@ -13,37 +13,33 @@
 
 ## 👋 About
 
-> I take one industry's real workflow at a time, rebuild it with AI agents, and show the whole thing.
+> AI tutorials that don't skip steps.
 
-AI can already do more than most professions have figured out how to use. That gap — between what the models can do and what actually runs in your day-to-day work — is what this is about.
-
-Getting agents to finish real work under real constraints is where most AI projects die. That's the part I work on. English is my second language, so I keep the prose plain.
+Everyone's posting what AI did for them. Almost nobody shows how. I'm Leo. I figure out how AI actually gets real work done, then explain it all the way through — the setup, the steps, what broke, and what I still don't know — so you can do it yourself.
 
 ---
 
 ## 🔨 What this is
 
-Working pieces from rebuilding real industry workflows with AI agents. Prompts, skeletons, and the judgment calls behind them.
+Working pieces from the videos — prompts, skeletons, and the judgment calls behind them.
 
 Everything demonstrated in a video is here. If you saw it, you can run it.
-
-**From AI demo to reproducible workflow.**
 
 ---
 
 ## ⚙️ How I Work
 
-- **One industry at a time.** Take a real workflow, rebuild it end to end, show the setup, the failures, the numbers, and the parts that still need a human.
-- **Only what I've run.** If I haven't broken it, I won't write about it.
-- **Every model release is another round.** Same workflow, new generation, what changed and what didn't. Old posts become the baseline rather than going stale.
-- **No vendor money.** No sponsorships, no affiliate links, no paid reviews. Nobody pays me to say a tool is good.
+- **No skipped steps.** The setup, the mistakes, and what finally worked.
+- **Only what I've run.** If I haven't run it myself, I won't tell you it works.
+- **Every model release is another round.** Same workflow, new generation, what changed and what didn't.
+- **Sponsors are labeled.** If something is sponsored, I say so, and I only take it for tools I actually use.
 
 ---
 
 ## 🚀 Start Here
 
-- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com) — write-ups, with the numbers and the failures
-- 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk) — what I'm rebuilding right now
+- 🌐 [aiworkflowpro.com](https://aiworkflowpro.com) — written guides, every step included
+- 𝕏 [@aiworkflowprolk](https://x.com/aiworkflowprolk) — what I'm working on right now
 - ▶️ [YouTube](https://www.youtube.com/channel/UCTVDdiLRI_7TkyFKmZ2-f7Q) — one workflow per video, start to finish
 
 ---
@@ -63,4 +59,4 @@ Every video ships with a repo you can take and use. Start from any episode — e
 ---
 
 <p align="center"><sub>The models get better. Someone still has to use them.</sub></p>
-<p align="center"><b>— hh</b></p>
+<p align="center"><b>— Leo</b></p>
